@@ -1,0 +1,15 @@
+G:\repos\cs\csx2-environment\csx2-environment\bin\Debug\net6.0\csx2-environment.exe
+G:\repos\cs\csx2-environment\csx2-environment\bin\Debug\net6.0\csx2-environment.deps.json
+G:\repos\cs\csx2-environment\csx2-environment\bin\Debug\net6.0\csx2-environment.runtimeconfig.json
+G:\repos\cs\csx2-environment\csx2-environment\bin\Debug\net6.0\csx2-environment.dll
+G:\repos\cs\csx2-environment\csx2-environment\bin\Debug\net6.0\csx2-environment.pdb
+G:\repos\cs\csx2-environment\csx2-environment\obj\Debug\net6.0\csx2-environment.csproj.AssemblyReference.cache
+G:\repos\cs\csx2-environment\csx2-environment\obj\Debug\net6.0\csx2-environment.GeneratedMSBuildEditorConfig.editorconfig
+G:\repos\cs\csx2-environment\csx2-environment\obj\Debug\net6.0\csx2-environment.AssemblyInfoInputs.cache
+G:\repos\cs\csx2-environment\csx2-environment\obj\Debug\net6.0\csx2-environment.AssemblyInfo.cs
+G:\repos\cs\csx2-environment\csx2-environment\obj\Debug\net6.0\csx2-environment.csproj.CoreCompileInputs.cache
+G:\repos\cs\csx2-environment\csx2-environment\obj\Debug\net6.0\csx2-environment.dll
+G:\repos\cs\csx2-environment\csx2-environment\obj\Debug\net6.0\refint\csx2-environment.dll
+G:\repos\cs\csx2-environment\csx2-environment\obj\Debug\net6.0\csx2-environment.pdb
+G:\repos\cs\csx2-environment\csx2-environment\obj\Debug\net6.0\csx2-environment.genruntimeconfig.cache
+G:\repos\cs\csx2-environment\csx2-environment\obj\Debug\net6.0\ref\csx2-environment.dll

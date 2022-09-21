@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dse3zSZ9+uxhHlbkMvE3vXIDAYUEaqUgooVDDih3kqYAXoklSvHgXKF8/p/K9drkZ/aZq6YqEGj5VPNUku5pKw==",
+  "dgSpecHash": "M0RjCWk4DhkIUsCek8NMsHbk+my/8+hCSylHj+LlyqRkIeb4mPxaW39msjKaleAFVRh+igCFuITW04WWbpSC8Q==",
   "success": true,
-  "projectFilePath": "/home/runner/csx2-environment/csx2-environment.csproj",
+  "projectFilePath": "G:\\repos\\cs\\csx2-environment\\csx2-environment\\csx2-environment.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
